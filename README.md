@@ -33,7 +33,7 @@ Se "Schema" nedan för mer information.
 ### Dagschemat try-out kursen
 
  * Första try-out kursdagen: 11:e Juni 2022 (men du är alltid välkommen!) 12:30-14:30
- * Ålder: 8-888 år [*](faq.md)
+ * Ålder: 8-88 år [*](faq.md)
 
 När  |Vad
 -----|---------
@@ -47,7 +47,7 @@ När  |Vad
    Ekeby Bruk 6M, 752 63 Uppsala
  * Kostnad per elev:
    * 0 kr för Uppsala Makerspace medlemmar, 200 kr för andra
- * Ålder: 8-888 år [*](faq.md)
+ * Ålder: 8-88 år [*](faq.md)
  * Krav: en bärbar dator med WiFi [*](faq.md)
 
 Din första lektion kan vara vilken dag som helst.
@@ -60,7 +60,7 @@ Har du en annan fråga? Se [vanliga frågor](faq.md).
 
  * Första kursdagen: 20:e August 2022 (men du är alltid välkommen!) antagligen 10:00-12:30
  * Dag: Varje lördag, utom på röda dagar, sommarlov och jullov
- * Ålder: 8-888 år [*](faq.md)
+ * Ålder: 8-88 år [*](faq.md)
 
 När  |Vad
 -----|---------
@@ -86,20 +86,40 @@ Har du en annan fråga? Se [vanliga frågor](faq.md).
 
 ## Betala
 
-Kursen kostar 400 kr för Uppsala Makerspace medlemmar
-och 600 kr för andra (tips: medlemskap är 200 kr per år!).
+### Betala try-out kurs
+
+Kursen kostar ingenting för Uppsala Makerspace medlemmar
+och 200 kr för andra per halv år (tips: medlemskap är 200 kr per år!).
 
 Du kan betala in via antingen bankgiro (584-8056) eller Swish (123 056 57 47).
-Snälla, använd formatet här (`PC` betyder 'Programming Course'):
+Snälla, använd formatet här (`AC` betyder 'Arduino Course'):
 
 ```
-PC: [nam], [email]
+AC: [nam], [email]
 ```
 
 till exempel:
 
 ```
-PC: Sven Svensson, sven@svensson.se
+AC: Sven Svensson, sven@svensson.se
+```
+
+### Betala 'riktigt' kurs
+
+Kursen kostar 400 kr för Uppsala Makerspace medlemmar
+och 600 kr för andra per halv år (tips: medlemskap är 200 kr per år!).
+
+Du kan betala in via antingen bankgiro (584-8056) eller Swish (123 056 57 47).
+Snälla, använd formatet här (`AC` betyder 'Arduino Course'):
+
+```
+AC: [nam], [email]
+```
+
+till exempel:
+
+```
+AC: Sven Svensson, sven@svensson.se
 ```
 
 ## Årschema
@@ -108,28 +128,29 @@ Den här schemat är en generellt ide. Ser veckoschema för detaljerna.
 
 När      |Vad
 ---------|----------------------------
-Januari  |Kursen 1:e semester
-Juli     |Presentation och utvärdering 
-Augusti  |Sommarlov
-September|Kursen 2:e semester
+Juni     |Början try-out kurs, från 11:e Juni
+Augusti  |Kursen 1:e semester, från 20:e August
 December |Presentation och utvärdering
+Januari  |Kursen 2:e semester
+Juli     |Presentation och utvärdering 
 
 ## Veckoschema
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-18   |2022-05-07|16. [programmeringsdag hos Stadsbiblioteket](https://github.com/richelbilderbeek/programmeringsdag_usb_2022), ingen kurs på Makerspacet
-19   |2022-05-14|17. Förberada presentation
-20   |2022-05-21|18. Öva presentation
-20   |2022-05-22|Hackathon 12:00-18:00
-21   |2022-05-28|19. Slutpresentation
-.    |2022-05-29|Morsdag (också farmor, mormor, usw)
-22   |2022-06-04|20. Sista lektion: eftermorsdag
-.    |.         |Ej kurs, sommarlov, men det finns [Minecraft Quest](https://github.com/djog/minecraft_quest)
+23   |2022-06-11|1. Början try-out kurs
+24   |2022-06-18|2. 
+25   |2022-06-25|3. 
+26   |2022-07-02|4. 
+27   |2022-07-09|5. 
+28   |2022-07-16|6. 
 .    |2022-07-22|[Pi Annäherings Dag](https://github.com/richelbilderbeek/pi_approximation_day)
-33   |2022-08-20|3:e säsong, kursen förtsätter igen
-.    |2022-09-10|Kulturnatten: vi ska undervisa!
-.    |2022-11-19|Farsdag (också farfar, morfar, usw)
+29   |2022-07-23|7. 
+30   |2022-07-30|8. 
+31   |2022-08-06|9. ?Slutpresentation och utvärdering
+32   |2022-08-13|Ej kurs, vi är på Kulturnatten istället
+33   |2022-08-20|1. Början riktigt kurs
+34   |2022-08-27|2. ...
 
 ## Impressum
 
