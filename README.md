@@ -179,3 +179,16 @@ På slutet av en termin hade vi en presentation:
  * ['Programmeringskurs för ungdomar' hemsida](https://github.com/richelbilderbeek/programmeringskurs_foer_ungdomar)
  * ['git for youngsters' hemsida](https://codeberg.org/richelbilderbeek/git_for_youngsters)
 
+
+## Webshoppar
+
+From poll on UMS Slack:
+
+ * 2x [Conrad](https://www.conrad.com/)
+ * 1x [Digikey](https://www.digikey.se/)
+ * 2x [Electrokit](https://www.electrokit.com/)
+ * 1x [Kjell and company](https://www.kjell.com/)
+ * 1x [M](https://www.m.nu/)
+ * 2x [Mouser](https://www.mouser.se/)
+ * 2x [Reichelt](https://www.reichelt.com/)
+
