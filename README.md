@@ -1,4 +1,4 @@
-# Arduinokurs för ungdomar
+# Arduinokurs
 
 ![](pics/uppsala_makerspace_50.png)![](pics/arduino_logo_50.png)
 
@@ -18,7 +18,7 @@ Först arbetar du dig igenom våra häften för att lära dig grunderna.
 Efter ditt första diplom får du joina ett uppfinnarslag.
 Och efter det, kanske du kommer att leda ditt eget lag!
 
-Inga förkunskaper krävs.
+Inga förkunskaper krävs. Häfterna har skrivits för tonåringer att läsa.
 
 Det viktigaste i kursen är att lära sig elektronik och programmera tillsammans.
 
@@ -27,8 +27,8 @@ Se "Schema" nedan för mer information.
 ## Dagschema
 
  * Dagschema try-out kurs skiljer dig med 'riktigt' kursen:
-   * Try-out: 11:e Juni-13:e August
-   * Riktigt: 20:e August-Mai
+   * Try-out: 11:e Juni till 13:e August 12:30-14:30
+   * Riktigt: 20:e August till Mai 2023 10:00-12:00
 
 ### Dagschemat try-out kursen
 
