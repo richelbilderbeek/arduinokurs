@@ -5,6 +5,7 @@
 Omskriving      |  x|Länk
 ----------------|---|-----------
 Assortimentsdoos|  2|[Okaphone](https://www.okaphone.com/artikel.asp?id=467196)
+[Sortimentlåda med 18 fack](https://www.kjell.com/se/produkter/el-verktyg/elektronik/sortimentlador/sortimentlada-med-18-fack-p89083)
 
 ## Arduino (10x)
 
