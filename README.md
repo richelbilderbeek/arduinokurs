@@ -24,48 +24,15 @@ Det viktigaste i kursen är att lära sig elektronik och programmera tillsammans
 
 Se "Schema" nedan för mer information.
 
-## Dagschema
+### Dagschema
 
- * Dagschema try-out kurs skiljer dig med 'riktigt' kursen:
-   * Try-out: 11:e Juni till 13:e August 12:30-14:30
-   * Riktigt: 20:e August till Mai 2023 10:00-12:00
-
-### Dagschemat try-out kursen
-
- * Första try-out kursdagen: 11:e Juni 2022 (men du är alltid välkommen!) 12:30-14:30
+ * Första kursdagen: 20:e Augusti 2022 (men du är alltid välkommen!) 10:00-12:00
  * Ålder: 8-88 år [*](faq.md)
 
 När  |Vad
 -----|---------
-12:30|Dörren öppen
-12:45|Start
-13:30|Rast
-14:45|Fortsättning
-14:30|Slut
-
- * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
-   Ekeby Bruk 6M, 752 63 Uppsala
- * Kostnad per elev:
-   * 0 kr för Uppsala Makerspace medlemmar, 200 kr för andra
- * Ålder: 8-88 år [*](faq.md)
- * Krav: en bärbar dator med WiFi [*](faq.md)
-
-Din första lektion kan vara vilken dag som helst.
-Även utan förvarning.
-Om du vet när du kommer är det trevligt om du berättar det för Richel: richel@richelbilderbeek.nl
-
-Har du en annan fråga? Se [vanliga frågor](faq.md).
-
-### Dagschemat 'riktigt' kursen
-
- * Första kursdagen: 20:e August 2022 (men du är alltid välkommen!) antagligen 10:00-12:30
- * Dag: Varje lördag, utom på röda dagar, sommarlov och jullov
- * Ålder: 8-88 år [*](faq.md)
-
-När  |Vad
------|---------
-10:00|Dörren öppen
-10:15|Start
+10:00|Dörr öppnas
+10:15|Början
 11:00|Rast
 11:15|Fortsättning
 12:00|Slut
