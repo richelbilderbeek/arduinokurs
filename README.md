@@ -44,7 +44,7 @@ När  |Vad
  * Kostnad per elev:
    * September till december: 400 kr för Uppsala Makerspace medlemmar, 600 kr för andra
    * Januari till maj: 400 kr för Uppsala Makerspace medlemmar, 600 kr för andra
- * Ålder: 8-18 år [*](faq.md)
+ * Ålder: 8-88 år [*](faq.md)
  * Krav: en bärbar dator med WiFi [*](faq.md)
 
 Din första lektion kan vara vilken dag som helst.
