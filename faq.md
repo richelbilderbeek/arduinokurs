@@ -12,7 +12,7 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
  * Komma igång
  * Ålder på deltagare
  * Kursmaterial
- * Programmeringsspråk - Processing (Java)
+ * Programmeringsspråk - Arduino (C++)
  * Förväntningar på deltagande (barn)
  * Förväntningar på föräldrar
  * Förväntningar på volontärer / frivilliga
@@ -77,49 +77,21 @@ Snälla, antingen lämna din mobil hemma eller stäng av den under kursen.
 
 ### Vilken böcker använder kursen?
 
-Vi använder böcker av [Processing för toårigen](https://github.com/richelbilderbeek/processing_foer_ungdomar).
+Vi använder böcker av [Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar).
 
 ### Få jag drycker böcker själv?
 
-Javisst! Bocker att [Processing för toårigen](https://github.com/richelbilderbeek/processing_foer_ungdomar)
+Javisst! Bocker att [Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar)
 ha en `CC-BY-NC` licens, 
 som innehål du får drycker böcker själv för en kommerciell sak (`NC` = 'Non Commercial').
 Också, du får ädrar texten, så långe du skriver också original version (`BY` = 'give attribution').
 
-## Processing
+## Arduino (programmeringsspråket)
 
-### Varför ska jag lära mig just Processing?
+### Är Arduino en programmeringsspråket?
 
-Processing är ett programmeringsspråk som är framtaget för att ge en bra introduktion till programmering. Processing är också en dialekt av det populära programmeringsspråket Java och kan därmed bli ett naturligt steg mot mer avancerad programmering.  
-
-Det är också så att vi har undervisningsmaterial och tidigare erfarenhet av undervisning i Processing vilket gör att du kan få bra hjälp.
-
-### Varför inte använda Scratch?
-
-Vår erfarenhet är att det fungerar mindre bra i en kurs av framförallt tre skäl:
-1. Det är lätt att fastna i moment som är kreativa men som har mer med konst och storytelling än programmering att göra. 
-2. Det är lätt att fastna i att spela olika färdiga program snarare än att skriva egna.
-3. Scratch påminner är ett visuellt sätt att programmera som inte påminner så mycket om riktiga programmeringsspråk, det gör däremot processing.
-
-Men scratch är ändå ett bra första steg för att komma igång, särskilt för yngre barn. Använd det gärna om du vill undervisa din(a) barn individuellt.
-
-### Varför använder ni inte istället programmeringspråket [ditt favoritspråk]?
-
-Det handlar till viss del om att ha bra undervisningsmaterial att utgå från och erfarenhet hos våra lärare och volontärer.
-
-Men hör gärna av dig, det är möjligt att utvidga till fler programmeringsspråk.
-
-### Får jag ockå lära mig fler programmeringsspråk?
-
-Ja, när:
-
- * du har fått ditt första certifikat
- * du föreslår ett lag där du och tre andra barn ingår
-
-Det kan vara programmeringspråk som:
- * C++ för Arduino
- * mBot
- * Javacsript
+Programmeringsspråket används för att programmerar
+en Arduino är en dialekt av C++.
 
 ## Förväntningar på deltagande (barn)
 
@@ -156,25 +128,6 @@ Där kan finnas möjlighet att både visa upp vad som åstadkommits eller underv
 ![](pics/20180210OpenDagDjo_3.jpg)
 
 > Nederländska barn (i oranga T-skjörtor) undervisar andra barn på ett evenemang
-
-### Kan jag göra datorspel?
-
-Oh ja!
-
-Att göra ett datorspel är ett av de roligaste sätten att lära sig programmering.
-
-![](pics/nature_zen.png)
-
-> Nature Zen är ett datorspel som är tillgänligt Steam
-
-### Kan jag spela datorspel på kursen?
-
-Nej.
-
-I denna kurs kommer lärandet först.
-Spel bidrar inte till att lära sig programmera.
-Vi vill inte att man spelar i Uppsala Makerspaces lokaler. Varken före, under rasten eller efter att kursen slutat.
-Men, om du *själv* har programmerat ett spel så får du naturligtvis visa upp spelet och låta andra testa det bara det inte tar över kursen.
 
 ### Vem ska jag fråga om jag fastnar?
 
@@ -213,10 +166,9 @@ Ett tips: kom 5 minuter före slutet för en kort titt :-)
 Javisst! Du kann bli en volontär. 
 Vi försöker då ordna så du är i en annan grupp än ditt/dina barn, se frågan ovan.
 
-### Mitt/minaa barn kan inte kom på ett kurstillfälle!
+### Mitt/mina barn kan inte kom på ett kurstillfälle!
 
 Inget problem! 
-
 
 Men skicka gärna ett mail till Richel,`richel@richelbilderbeek.nl` och meddela detta.
 
@@ -233,20 +185,19 @@ Målsättningen är dock att barnen ska hjälpa varandra i så stor utsträcknin
 ### Var finns lektionerna?
 
 Lektioner finns beskrivna på webbplatsen (översättning pågår). 
-[Processing för ungdomar] (https://github.com/richelbilderbeek/processing_foer_ungdomar).
+[Arduino för ungdomar] (https://github.com/richelbilderbeek/arduino_foer_ungdomar).
 
 ## Jag lära mig Processing och komma igång dirkt, hur går jag tillväga?
 
 Kul, självklart kan du komma igång själv!
-[Ladda ner Processing här](https://processing.org/download/).
 
-Processing lektionerna finns på webbplatsen [Processing för ungdomar] (https://github.com/richelbilderbeek/processing_foer_ungdomar).
+[Ladda ner Arduino IDE här](https://www.arduino.cc/en/software).
 
-![](pics/processing3_logo_50.png)
+Arduino lektionerna finns på webbplatsen [Processing för ungdomar] (https://github.com/richelbilderbeek/arduino_foer_ungdomar).
 
 ## Jag vill skapa på fler sätt än med datorn, är det möjligt?
 
-Javisst, men detta är en programmeringskurs.
+Javisst, men detta är en Arduino kurs.
 
 Lyckligtvis, det finns det andra aktiviteter för Makerkids i Uppsala Makerspace, hör av dig till föreningen på kansliet@uppsalamakerspace.se eller prata med någon på våra öppna kvällar!
 Se också [tidigare aktiviteter](https://www.uppsalamakerspace.se/aktiviteter).
