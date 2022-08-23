@@ -30,12 +30,14 @@ Se "Schema" nedan för mer information.
  * Ålder: 8-88 år [*](faq.md)
 
 När  |Vad
------|---------
+-----|-------------------------------------------------------
 10:00|Dörr öppnas
 10:15|Början
 11:00|Rast
 11:15|Fortsättning
-12:00|Slut
+12:00|Slut/rast
+12:15|Möjlig fortsättning för elever med ett diplom och vuxen
+13:00|Slut
 
  * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
    Ekeby Bruk 6M, 752 63 Uppsala
