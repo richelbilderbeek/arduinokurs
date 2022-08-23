@@ -101,23 +101,30 @@ December |Presentation och utvärdering
 Januari  |Kursen 2:e semester
 Juli     |Presentation och utvärdering 
 
-## Veckoschema
-
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-23   |2022-06-11|1. Början try-out kurs
-24   |2022-06-18|2. 
-25   |2022-06-25|Ej kurs
-26   |2022-07-02|4. 
-27   |2022-07-09|5. 
-28   |2022-07-16|6. 
-.    |2022-07-22|[Pi Annäherings Dag](https://github.com/richelbilderbeek/pi_approximation_day)
-29   |2022-07-23|7. 
-30   |2022-07-30|8. 
-31   |2022-08-06|9. ?Slutpresentation och utvärdering
-32   |2022-08-13|Ej kurs, vi är på Kulturnatten istället
-33   |2022-08-20|1. Början riktigt kurs
-34   |2022-08-27|2. ...
+33   |2022-08-20|1. Programmeringskursen förtsätter igen
+34   |2022-08-27|2. Skapa T-shirt med/för 3 elever
+35   |2022-09-03|3. Skapa T-shirt med/för sista elever
+36   |2022-09-10|4. [Kulturnatten](https://github.com/richelbilderbeek/programmeringskurs/activities/20220910_kulturnatten.md): vi undervisar!
+37   |2022-09-17|5.
+38   |2022-09-24|6.
+39   |2022-10-01|7.
+40   |2022-10-08|8.
+41   |2022-10-15|9.
+42   |2022-10-22|10.
+43   |2022-10-29|Höstlov
+44   |2022-11-05|Höstlov
+45   |2022-11-12|11.
+46   |2022-11-19|12. [Efterfarsdag](https://github.com/richelbilderbeek/programmeringskurs/activities/20221119_efterfarsdag.md) (också farfar, morfar, osv)
+47   |2022-11-26|13.
+48   |2022-12-03|14. 
+49   |2022-12-10|15. [Slutpresentation och utvärdering](https://github.com/richelbilderbeek/programmeringskurs/activities/20221210_slutpresentation.md) (varje en är välkomna)
+50   |2022-12-17|16. Sista dag
+51   |2022-12-24|Jullov
+52   |2022-12-31|Jullov
+52   |2022-12-30|Jullov
+ 1   |2023-01-07|1. Kurs försätter igen
 
 ## Impressum
 
