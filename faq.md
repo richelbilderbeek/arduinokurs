@@ -17,6 +17,7 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
  * Förväntningar på föräldrar
  * Förväntningar på volontärer / frivilliga
  * Kostnad för kursen
+ * Köpa komponenter
  * Mer om läraren
 
 ## Komma igång
@@ -323,16 +324,32 @@ i början när det inte finns några böcker,
 blir kostnaden 554 SEK per elev pro termin.
 Det är en pessimistisk uppskattning.
 
+## Köpa komponenter
+
+### Vem är bästa webshop för att köpa komponenter?
+
+From poll on UMS Slack:
+
+ * 2x [Conrad](https://www.conrad.com/)
+ * 1x [Digikey](https://www.digikey.se/)
+ * 2x [Electrokit](https://www.electrokit.com/)
+ * 1x [Kjell and company](https://www.kjell.com/)
+ * 1x [M](https://www.m.nu/)
+ * 2x [Mouser](https://www.mouser.se/)
+ * 2x [Reichelt](https://www.reichelt.com/)
+
 ## Personen
 
 ### Vem är volontärer?
 
- * Jon
+ * Björn
  * Richel
 
-### Vem är Jon?
+### Vem är Björn?
 
-Jon är volontär på kursen. Han har jobbat som bland annat programmerare under 20 års tid, mest med Javascript. På senare år har han även hållit kurser för ungdomar och lärare i bland annat [Scratch](https://scratch.mit.edu) och [Raspberry Pi](https://raspberrypi.org). På fritiden är han engagerad i bland annat [Uppsala Linux User Group](https://ulug.se), [Uppsala Makerspace](https://uppsalamakerspace.se) och [DFRI](https://dfri.se).
+Björn är volontär på kursen. 
+
+Han skapar allt som helst och ger Blender kurser också.
 
 ### Vem är [Richel](https://github.com/richelbilderbeek)?
 

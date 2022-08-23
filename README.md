@@ -71,7 +71,7 @@ till exempel:
 AC: Sven Svensson, sven@svensson.se
 ```
 
-### Betala 'riktigt' kurs
+### Betala kurs
 
 Kursen kostar 400 kr för Uppsala Makerspace medlemmar
 och 600 kr för andra per halv år (tips: medlemskap är 200 kr per år!).
@@ -91,22 +91,24 @@ AC: Sven Svensson, sven@svensson.se
 
 ## Årschema
 
-Den här schemat är en generellt ide. Ser veckoschema för detaljerna.
+Detta är det övergripande schemat. Ser veckoschema för detaljerna.
 
 När      |Vad
 ---------|----------------------------
-Juni     |Början try-out kurs, från 11:e Juni
-Augusti  |Kursen 1:e semester, från 20:e August
-December |Presentation och utvärdering
-Januari  |Kursen 2:e semester
+Januari  |Kursen 1:e semester
 Juli     |Presentation och utvärdering 
+Augusti  |Sommarlov
+September|Kursen 2:e semester
+December |Presentation och utvärdering
+
+## Veckoschema
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
 33   |2022-08-20|1. Programmeringskursen förtsätter igen
 34   |2022-08-27|2. Skapa T-shirt med/för 3 elever
 35   |2022-09-03|3. Skapa T-shirt med/för sista elever
-36   |2022-09-10|4. [Kulturnatten](https://github.com/richelbilderbeek/programmeringskurs/activities/20220910_kulturnatten.md): vi undervisar!
+36   |2022-09-10|4. [Kulturnatten](https://github.com/richelbilderbeek/programmeringskurs/blob/master/activities/20220910_kulturnatten.md): vi undervisar!
 37   |2022-09-17|5.
 38   |2022-09-24|6.
 39   |2022-10-01|7.
@@ -116,10 +118,10 @@ Vecka| Dag      |Vad
 43   |2022-10-29|Höstlov
 44   |2022-11-05|Höstlov
 45   |2022-11-12|11.
-46   |2022-11-19|12. [Efterfarsdag](https://github.com/richelbilderbeek/programmeringskurs/activities/20221119_efterfarsdag.md) (också farfar, morfar, osv)
+46   |2022-11-19|12. [Efterfarsdag](https://github.com/richelbilderbeek/programmeringskurs/blob/master/activities/20221119_efterfarsdag.md) (också farfar, morfar, osv)
 47   |2022-11-26|13.
 48   |2022-12-03|14. 
-49   |2022-12-10|15. [Slutpresentation och utvärdering](https://github.com/richelbilderbeek/programmeringskurs/activities/20221210_slutpresentation.md) (varje en är välkomna)
+49   |2022-12-10|15. [Slutpresentation och utvärdering](https://github.com/richelbilderbeek/programmeringskurs/blob/master/activities/20221210_slutpresentation.md) (varje en är välkomna)
 50   |2022-12-17|16. Sista dag
 51   |2022-12-24|Jullov
 52   |2022-12-31|Jullov
@@ -127,6 +129,9 @@ Vecka| Dag      |Vad
  1   |2023-01-07|1. Kurs försätter igen
 
 ## Impressum
+
+[Programmeringskurs](https://github.com/richelbilderbeek/programmeringskurs#impressum)
+har fina bilder.
 
 ### Äldre bilder
 
@@ -150,19 +155,6 @@ På slutet av en termin hade vi en presentation:
 
  * [Uppsala Makerspace hemsida](https://www.uppsalamakerspace.se/)
  * [Kursbok: 'Arduino för ungdomar'](https://github.com/richelbilderbeek/arduino_foer_ungdomar)
- * ['Programmeringskurs för ungdomar' hemsida](https://github.com/richelbilderbeek/programmeringskurs_foer_ungdomar)
+ * ['Programmeringskurs' hemsida](https://github.com/richelbilderbeek/programmeringskurs)
  * ['git for youngsters' hemsida](https://codeberg.org/richelbilderbeek/git_for_youngsters)
-
-
-## Webshoppar
-
-From poll on UMS Slack:
-
- * 2x [Conrad](https://www.conrad.com/)
- * 1x [Digikey](https://www.digikey.se/)
- * 2x [Electrokit](https://www.electrokit.com/)
- * 1x [Kjell and company](https://www.kjell.com/)
- * 1x [M](https://www.m.nu/)
- * 2x [Mouser](https://www.mouser.se/)
- * 2x [Reichelt](https://www.reichelt.com/)
 
