@@ -53,27 +53,7 @@ Om du vet när du kommer är det trevligt om du berättar det för Richel: riche
 
 Har du en annan fråga? Se [vanliga frågor](faq.md).
 
-## Betala
-
-### Betala try-out kurs
-
-Kursen kostar ingenting för Uppsala Makerspace medlemmar
-och 200 kr för andra per halv år (tips: medlemskap är 200 kr per år!).
-
-Du kan betala in via antingen bankgiro (584-8056) eller Swish (123 056 57 47).
-Snälla, använd formatet här (`AC` betyder 'Arduino Course'):
-
-```
-AC: [nam], [email]
-```
-
-till exempel:
-
-```
-AC: Sven Svensson, sven@svensson.se
-```
-
-### Betala kurs
+## Betalning
 
 Kursen kostar 400 kr för Uppsala Makerspace medlemmar
 och 600 kr för andra per halv år (tips: medlemskap är 200 kr per år!).
@@ -134,24 +114,6 @@ Vecka| Dag      |Vad
 
 [Programmeringskurs](https://github.com/richelbilderbeek/programmeringskurs#impressum)
 har fina bilder.
-
-### Äldre bilder
-
-Bilderna är från Richels sista kurs på [De Jonge Onderzoekers Groningen](https://www.djog.nl/):
-
-På en öppen dag undervisar våra elever (i oranga T-shirts) våra gäster:
-
-![Öppen Dag](pics/20180210OpenDagDjo_3.jpg)
-
-![Öppen Dag](pics/20191005ZpannendZernike.jpg)
-
-På slutet av en termin hade vi en presentation:
-
-![Presentation](pics/20190705_1.jpg)
-
-![Presentation](pics/20190705_3.jpg)
-
-> Alla bilder är användet med vänligt tillstånd av 'De Jonge Onderzoekers Groningen'
 
 ## Länkar
 
