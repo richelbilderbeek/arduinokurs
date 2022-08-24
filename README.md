@@ -24,6 +24,13 @@ Det viktigaste i kursen är att lära sig elektronik och programmera tillsammans
 
 Se "Schema" nedan för mer information.
 
+ * Tycker du mer om att skapa datorspel, 
+   kanske [programmeringskursen](https://github.com/richelbilderbeek/programmeringskurs)
+   passar dig bättre
+ * Tycker du mer om att skapa datorspel med bara vuxna
+   kanske [programmeringslag 'tresinformal'](https://github.com/tresinformal/game)
+   passar dig bättre
+
 ### Dagschema
 
  * Första kursdagen: 20:e Augusti 2022 (men du är alltid välkommen!) 10:00-12:00
