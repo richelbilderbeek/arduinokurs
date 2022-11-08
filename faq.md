@@ -19,6 +19,7 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
  * Kostnad för kursen
  * Köpa komponenter
  * Mer om läraren
+ * Hjälp på Arduinoproject
 
 ## Komma igång
 
@@ -320,6 +321,17 @@ och [mer än 1200 GitHub-arkiv](https://github.com/richelbilderbeek?tab=reposito
 Självklart har han gjört [många datorspelar](https://github.com/richelbilderbeek/games).
 
 På dagtid jobbar Richel som [forskare på Uppsala Universitet](https://katalog.uu.se/empinfo/?id=N21-617).
+
+## Hjälp på Arduinoproject
+
+Vill du ha hjälp på din egna Arduinoproject, kan du ta kontakt med Richel.
+Den är beroende om du har bråttom:
+
+ * Ingen bråttom: din project kan blir en elev project. 
+   Du är välkommen att komma till kursen, introducera projectet
+   och kanske få en elev. Om du har en elev, kann han/hon hjälpa
+   dig. Du -självklart- betalar alla materialer, eleven gör 
+
 
 ## 🇬🇧🇺🇦 Frequently asked questions
 
