@@ -1,6 +1,6 @@
 # Arduinokurs
 
 This page has moved to 
-[https://github.com/uppsala-makerspace/loerdagskurser](https://github.com/uppsala-makerspace/loerdagskurser).
+[https://bit.ly/loerdagskurser](https://bit.ly/loerdagskurser).
 
 Please go there :-)
